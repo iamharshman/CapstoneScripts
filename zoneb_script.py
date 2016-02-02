@@ -2,7 +2,7 @@
 #the outer buffer distance is from the input polygons.
 #This is accomplished by erasing the outer ring with a temporary inner ring.
 #The erase is performed for each input polygon to allow for overlapping polygons in the outer buffer.
-#Each buffer ring from the final output is assigned an ID to coorespond with the input polygons.
+#Each buffer ring from the final output is assigned an ID to correspond with the input polygons.
 #IDs need to be populated in the input polygon prior to running the script
 
 
