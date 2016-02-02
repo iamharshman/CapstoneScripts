@@ -1,4 +1,4 @@
-REM Batch clip for SoCo LAS files. To avoid memeroy errors, the number of files per process is limited to 65. 
+REM Batch clip for SoCo LAS files. To avoid memory errors, the number of files per process is limited to 65. 
 
 SET PROCESSINGHOME=C:\FUSION
 REM shapefile name
